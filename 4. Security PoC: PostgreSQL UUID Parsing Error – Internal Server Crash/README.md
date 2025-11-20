@@ -17,7 +17,7 @@ This vulnerability creates a **Denial of Service (DoS) opportunity**. An attacke
 4.  Repeat the process with mass requests to trigger a full Denial of Service.
 
 ### Proof of Concept
-<img width="1013" height="592" alt="chrome_Bgg0p0TmhU2025" src="https://github.com/user-attachments/assets/bee8b350-737c-48da-b630-78c895695183" />
+<img width="1013" height="592" alt="chrome_Bgg0p0TmhU2025" src="https://github.com/user-attachments/assets/04d3fb19-ca05-4c17-b83c-a4bf0f2aa7c9" />
 
 ### Tools Used
 •   Postman
