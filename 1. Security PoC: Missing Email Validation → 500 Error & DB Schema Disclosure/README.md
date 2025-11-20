@@ -20,7 +20,7 @@ This vulnerability could potentially lead to:
 4.  Repeat the process in bulk to potentially trigger a DoS.
 
 ## Proof of Concept
-<img width="1590" height="743" alt="chrome_JZjmWvX10c2025" src="https://github.com/user-attachments/assets/223f3516-e630-467e-bfd2-dfae7a016385" />
+<img width="1590" height="743" alt="chrome_JZjmWvX10c2025" src="https://github.com/user-attachments/assets/57624117-bebc-442d-9ddf-47ab83a11add" />
 
 ## Tools Used
 *   Postman
