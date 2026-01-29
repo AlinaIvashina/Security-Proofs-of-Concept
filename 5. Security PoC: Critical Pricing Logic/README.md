@@ -38,7 +38,7 @@ A critical vulnerability was identified in the catalog pricing logic, where cert
 
 ###  Proof of Concept
 
-- **Reference**: `<img width="543" height="220" alt="Снимок экрана 2025-11-06 141445" src="https://github.com/user-attachments/assets/23f85b91-bfe9-4a21-b749-e68466eeb367" />
+- **Reference**: `<img width="543" height="220" alt="Снимок экрана 2025-11-06 141445" src="https://github.com/user-attachments/assets/61a9a6b0-6c9a-4829-aaf2-da17913c623b" />
 `
 - **Tools Used**: Postman
 
